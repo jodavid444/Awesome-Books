@@ -1,0 +1,23 @@
+{
+  "name": "awesome-books",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodavid444/Awesome-Books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodavid444/Awesome-Books/issues"
+  },
+  "homepage": "https://github.com/jodavid444/Awesome-Books#readme",
+  "keywords": [],
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
