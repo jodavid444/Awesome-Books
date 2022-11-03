@@ -1,15 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books Application
 
-> Description the project.
+> This is an application that always a user to store and remove books from a collection and also implemented local storage to preserve peice of data.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
+- HTML,CSS $ JAVASCRIPT
+
+- Frameworks (NONE)
+
 - Technologies used
+
+Github
+Git
+WebHint
+Stylelint
+ESlint
 
 ## Live Demo (if available)
 
@@ -24,27 +32,35 @@
 
 To get a local copy up and running follow these simple example steps.
 
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
 ### Prerequisites
+
+A Web Browser (preferably Google Chrome)
 
 ### Setup
 
-### Install
+Clone the GitHub Repository
 
 ### Usage
 
-### Run tests
+Open index.html in Chrome to view the website
 
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Joseph David**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+GitHub:(https://github.com/jodavid444)
+
+Twitter:(https://twitter.com/jodavid444)
+
+LinkedIn:(https://linkedin.com/jodavid444)
 
 👤 **Author2**
 
