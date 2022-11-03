@@ -1,4 +1,3 @@
-input {
-  display: block;
-  margin: 10px 0 10px 0;
+li {
+    list-style-type: none;
 }
