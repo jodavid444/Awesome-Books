@@ -1,3 +1,92 @@
-li {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: black;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+ul {
   list-style-type: none;
+}
+
+li {
+  padding: 7px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li:hover {
+  background-color: #6c6e75;
+}
+
+.title {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#awesomeBooks {
+  border: 1px solid #d4d2d2;
+  margin: 10px;
+}
+
+li span {
+  font-weight: bold;
+}
+
+.btn {
+  border: 2px solid black;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+li .btn {
+  display: block;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+hr {
+  width: 70px;
+  margin: 30px auto;
+}
+
+.form-section {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.form-section h2 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+form input {
+  width: 100%;
+  height: 25px;
+  padding-left: 6px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.form-btn {
+  text-align: right;
+}
+
+.form-btn button {
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  border: 2px solid;
+}
+
+#error {
+  color: red;
 }
