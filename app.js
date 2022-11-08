@@ -47,7 +47,7 @@
     const error = document.getElementById('error');
     const { title, author } = e.target;
     if (title.value.length < 1 || author.value.length < 1) {
-        error.innerHTML = 'input filed must not be empty';
+        error.innerHTML = 'Input must contain characters';
     } else {
         error.innerHTML = '';
         add({
