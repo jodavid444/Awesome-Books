@@ -65,7 +65,6 @@ Open index.html in Chrome to view the website
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
