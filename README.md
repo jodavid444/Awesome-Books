@@ -60,7 +60,6 @@ Open index.html in Chrome to view the website
 - LinkedIn: [LinkedIn](https://linkedin.com/in/joseph-david-01a8a5243)
 
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

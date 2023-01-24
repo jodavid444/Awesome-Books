@@ -44,6 +44,7 @@ header .logo a {
 header ul {
   display: flex;
   list-style-type: none;
+  font-size: 1rem;
 }
 
 header ul li {
