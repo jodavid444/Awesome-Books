@@ -49,24 +49,17 @@ Clone the GitHub Repository
 
 Open index.html in Chrome to view the website
 
-
-
-
 ## Authors
 
 👤 **Joseph David**
 
-GitHub:(https://github.com/jodavid444)
+- GitHub: [@jodavid444](https://github.com/jodavid444)
 
-Twitter:(https://twitter.com/jodavid444)
+- Twitter: [@jodavid444dave](https://twitter.com/jodavid444dave)
 
-LinkedIn:(https://linkedin.com/jodavid444)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/joseph-david-01a8a5243)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

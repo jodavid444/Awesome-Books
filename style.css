@@ -27,7 +27,7 @@ h2 {
 }
 
 header {
-  background-color: #eeeeee;
+  background-color: #eee;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -101,7 +101,6 @@ main {
   align-items: center;
 }
 
-
 #awesomeBooks li span {
   font-weight: bold;
 }
@@ -172,8 +171,7 @@ footer {
   bottom: 3px;
   width: 100%;
   padding: 10px;
-  background-color: #eeeeee;
-
+  background-color: #eee;
 }
 
 footer p {
